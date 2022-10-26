@@ -35,7 +35,7 @@ jobs:
 
       - name: Lint
         run: |
-          poetry run black --check lantern
+          poetry run black --check pytorch_types
 
       - name: Run tests
         run: |

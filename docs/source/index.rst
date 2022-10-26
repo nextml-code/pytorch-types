@@ -3,11 +3,11 @@ Welcome to pytorch-types's documentation!
 
 Pytorch typing for pydantic.
 
-.. autoclass:: lantern.Tensor
+.. autoclass:: pytorch_types.Tensor
    :members:
    :undoc-members:
    :member-order: bysource
-.. autoclass:: lantern.Numpy
+.. autoclass:: pytorch_types.Numpy
    :members:
    :undoc-members:
    :member-order: bysource
